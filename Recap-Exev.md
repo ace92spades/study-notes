@@ -29,3 +29,9 @@
 ## Wiederholung
 
 nächsten Montag.
+
+## Für die Prüfung
+* Gesamte Vorlesungsunterlagen ausdrucken und Notizen einfügen
+* Formelsammlung (Studenten, Schipke, Buch)
+* Taschenrechner
+* Lösungsweg angeben
