@@ -26,11 +26,12 @@
 * Messungen sind teuer -> Deshalb werden mehrere Faktoren gleichzeitig gezogen
 
 ### Ablauf
-** Analylitisch**
+**Analylitisch**
 1. Ausgangssituation beschreiben
 2. Untersuchungsziel festlegen
-3. Zielgrössen und Faktoren festlegen
-** experimentell**
+3. Zielgrössen und Faktoren festlegen  
+
+**experimentell**
 1. Versuchsplan aufstellen
 2. Blockbildung
 3. Aufwandsabschätzung
