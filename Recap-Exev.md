@@ -1,9 +1,31 @@
 # ExEv Recap
 
-## 
+## Overview
 
 **Objekte der realen Welt: Naiven Realismus**
 * Unsicherheiten (Rauschen)
 
 **Experiment**
-* Fehler
+* Fehler relativ zum Messbereich
+* Jeder Wert muss mit einem Fehlerwert belegt werden
+* relativ und absoluter Fehler
+* maximaler Fehler
+* Fehlerfortpflanzung
+* DoE: Design of experiments
+
+**Beschreibende Statistik**
+* Punktparameter und Intervallparameter
+
+**Schliessende Statistik**
+* Wahrscheinlichkeit _(LaPlace Experiment)_
+* Zufallsvariablen (mit Dichte)
+* Verteilungen (Gauss, Normal, Exponentiall, Luminal, etc.)
+* Besonders: Normalverteilung und Chi-Quadrat Verteilung
+* Der zentrale Grenzwertsatz: Irgendwann ist alles normalverteilt
+* Diskrete Verteilung und stetige Verteilung
+* Empirische Verteilung
+* Intervallabschätzung und Punkteabschätzung
+
+## Wiederholung
+
+nächsten Montag.
