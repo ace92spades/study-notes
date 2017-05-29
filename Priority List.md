@@ -18,3 +18,11 @@
 * Write down keywords and concepts
 * Investigate ambiguous items 
 * Compress information for exams
+
+## Dates
+
+* **MO: 14.08: ** AD1
+* **FR: 18.08: ** OS2
+* **DI: 22.08: ** ExEv
+* **DO: 24.08: ** ANL
+* **FR: 01.09: ** Turing
