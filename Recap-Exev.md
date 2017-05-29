@@ -28,7 +28,7 @@
 
 ## Wiederholung
 
-...
+BIG PICTURE shows it all
 
 ## Für die Prüfung
 * Gesamte Vorlesungsunterlagen ausdrucken und Notizen einfügen
