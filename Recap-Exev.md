@@ -28,7 +28,7 @@
 
 ## Wiederholung
 
-nächsten Montag.
+...
 
 ## Für die Prüfung
 * Gesamte Vorlesungsunterlagen ausdrucken und Notizen einfügen
