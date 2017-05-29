@@ -18,6 +18,7 @@
 * Write down keywords and concepts
 * Investigate ambiguous items 
 * Compress information for exams
+* Meet with the group once a week
 
 ## Dates
 
