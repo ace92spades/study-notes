@@ -34,3 +34,15 @@
   **[08:10-10:10]**
 * **FR: 01.09:** Turing 
   **[12:50-14:50]**
+  
+  
+## Plan
+
+* School days = Learning Days
+* 8 hours learning sessions
+* Saturday morning be learning
+
+*additonally*
+
+* Plan freetime efficiently
+* Stick to it
