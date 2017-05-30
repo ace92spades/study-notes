@@ -2,16 +2,17 @@
 
 ## Dependencies
 
-0. Re-allocate list depending on the exam date
+~0. Re-allocate list depending on the exam date~
 1. Read Java-Algorithms Chapters (all)
 2. Do AD1 homework (all) + read all presentations
 3. Redo Analysis Homework (key components)
 4. Learn most importan ANL formulas
-5. Analyse structure of AutoSprache exams
-6. Define key topics for Turing module
-7. Read statistics book
-8. Do all statistics exercises + take a look at presentations
-9. Do OS2 exercises + look at all presentations
+5. Analyse structure of Automata exams
+6. Define key topics for Automata module
+7. Look at all presentations + do OS2 exercises 
+8. Read statistics book
+9. Do all statistics exercises + take a look at presentations
+
 
 ## On-going
 
@@ -19,6 +20,7 @@
 * Investigate ambiguous items 
 * Compress information for exams
 * Meet with the group once a week
+
 
 ## Dates
 
