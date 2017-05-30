@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-~0. Re-allocate list depending on the exam date~
+0. ~Re-allocate list depending on the exam date~
 1. Read Java-Algorithms Chapters (all)
 2. Do AD1 homework (all) + read all presentations
 3. Redo Analysis Homework (key components)
